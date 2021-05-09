@@ -25,4 +25,4 @@ and by sliding from left to right, the matches of the past week are shown togeth
 
 -As requested, animations have been added when passing from team list screen to first-week match fixture.
 
--And finally, the apk file of the application was created and it is in the repo with the name "app-debug.apk".
+-And finally, the apk file of the application was created and it is in the releases.
