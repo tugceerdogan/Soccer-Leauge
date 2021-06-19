@@ -21,8 +21,6 @@ show them to the user via recyclerview.
 -By sliding the screen from right to left as desired, the matches of the next week are shown, 
 and by sliding from left to right, the matches of the past week are shown together with the scores. 
 
--These screens are unfortunately not dynamic. Due to the shortage of time, the matches were added manually in order to complete the application completely.
-
 -As requested, animations have been added when passing from team list screen to first-week match fixture.
 
 -And finally, the apk file of the application was created and it is in the releases.
